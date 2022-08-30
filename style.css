@@ -1,4 +1,13 @@
 :root {
+--clr-neutral-100: hsl(0, 0%, 98%);
+--clr-neutral-300: hsl(0, 0%, 41%);
+--clr-neutral-500: hsl(0, 0%, 8%);
+
+--ff-primary: 'Epilogue', sans-serif;
+
+}
+
+
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
